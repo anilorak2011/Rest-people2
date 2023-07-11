@@ -2,10 +2,6 @@ body {
     font-family: sans-serif;
     background-color: aqua;
 }
-.logo{
-    height: 50 px;
-    width: 50 px;
-}
 h1 {
    text-align: center;
    color: yellow; 
@@ -20,17 +16,12 @@ nav a {
      padding-right: 60 px;
      color: black;
 }
-main table {
-    background-color: red;
-}
-main tr{
-    background-color: maroon;
-}
-table img{
-    width:50 px ;
-    height:50 px ;
-}
-    
+main  {
+    background-color: light green;
+} 
     header p{
+    background-color: plum;
+}
+footer{
     background-color: plum;
 }
